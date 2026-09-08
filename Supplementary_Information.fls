@@ -241,6 +241,10 @@ INPUT C:\Users\Acer\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\txex-ba
 INPUT C:\Users\Acer\AppData\Local\Programs\MiKTeX\fonts\vf\public\newtx\ntxmi.vf
 INPUT C:\Users\Acer\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\NewTXMI.tfm
 INPUT C:\Users\Acer\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\stxscr.tfm
+INPUT C:\Users\Acer\AppData\Local\Programs\MiKTeX\tex\latex\newtx\t1ntxtt.fd
+INPUT C:\Users\Acer\AppData\Local\Programs\MiKTeX\tex\latex\newtx\t1ntxtt.fd
+INPUT C:\Users\Acer\AppData\Local\Programs\MiKTeX\tex\latex\newtx\t1ntxtt.fd
+INPUT C:\Users\Acer\AppData\Local\Programs\MiKTeX\fonts\tfm\public\txfonts\t1xtt.tfm
 INPUT Supplementary_Information.aux
 INPUT .\Supplementary_Information.out
 INPUT .\Supplementary_Information.out
@@ -248,6 +252,8 @@ INPUT C:\Users\Acer\AppData\Local\Programs\MiKTeX\fonts\type1\public\newtx\NewTX
 INPUT C:\Users\Acer\AppData\Local\Programs\MiKTeX\fonts\type1\public\newtx\NewTXMI.pfb
 INPUT C:\Users\Acer\AppData\Local\Programs\MiKTeX\fonts\type1\public\newtx\NewTXMI7.pfb
 INPUT C:\Users\Acer\AppData\Local\Programs\MiKTeX\fonts\type1\public\newtx\NewTXMI7.pfb
+INPUT C:\Users\Acer\AppData\Local\Programs\MiKTeX\fonts\type1\public\txfonts\t1xtt.pfb
+INPUT C:\Users\Acer\AppData\Local\Programs\MiKTeX\fonts\type1\public\txfonts\t1xtt.pfb
 INPUT C:\Users\Acer\AppData\Local\Programs\MiKTeX\fonts\type1\public\newtx\txsys.pfb
 INPUT C:\Users\Acer\AppData\Local\Programs\MiKTeX\fonts\type1\public\newtx\txsys.pfb
 INPUT C:\Users\Acer\AppData\Local\Programs\MiKTeX\fonts\type1\public\newtx\ztmb.pfb
