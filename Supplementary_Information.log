@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2026.4.24)  7 SEP 2026 20:34
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2026.4.24)  7 SEP 2026 21:42
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -695,15 +695,187 @@ LaTeX Font Info:    Font shape `T1/ntxtlf/m/it' will be
 [3]
 
 [4]
-Underfull \hbox (badness 10000) in paragraph at lines 337--338
+
+[5]
+Underfull \hbox (badness 10000) in paragraph at lines 433--434
 
  []
 
 
 
-[5]
+[6]
+Overfull \hbox (5.71658pt too wide) in alignment at lines 446--450
+ [] [] [] [] 
+ []
 
-[6] (Supplementary_Information.aux)
+
+Overfull \hbox (5.71658pt too wide) in alignment at lines 450--455
+ [] [] [] [] 
+ []
+
+
+Underfull \hbox (badness 4805) in paragraph at lines 459--459
+[]|\T1/ntxtlf/m/n/10.95 (+20) AM-Bench 2022,
+ []
+
+
+Underfull \hbox (badness 4805) in paragraph at lines 464--464
+[]|\T1/ntxtlf/m/n/10.95 (+20) AM-Bench 2022,
+ []
+
+
+Underfull \hbox (badness 4805) in paragraph at lines 469--469
+[]|\T1/ntxtlf/m/n/10.95 (+20) AM-Bench 2022,
+ []
+
+
+Underfull \hbox (badness 4805) in paragraph at lines 474--474
+[]|\T1/ntxtlf/m/n/10.95 (+20) AM-Bench 2022,
+ []
+
+
+Underfull \hbox (badness 4805) in paragraph at lines 479--479
+[]|\T1/ntxtlf/m/n/10.95 (+20) AM-Bench 2025,
+ []
+
+
+Underfull \hbox (badness 4805) in paragraph at lines 484--484
+[]|\T1/ntxtlf/m/n/10.95 (+20) AM-Bench 2025,
+ []
+
+
+Underfull \hbox (badness 4805) in paragraph at lines 489--489
+[]|\T1/ntxtlf/m/n/10.95 (+20) AM-Bench 2025,
+ []
+
+
+Underfull \hbox (badness 4805) in paragraph at lines 496--496
+[]|\T1/ntxtlf/m/n/10.95 (+20) AM-Bench 2022,
+ []
+
+
+Underfull \hbox (badness 4805) in paragraph at lines 501--501
+[]|\T1/ntxtlf/m/n/10.95 (+20) AM-Bench 2022,
+ []
+
+
+Underfull \hbox (badness 4805) in paragraph at lines 506--506
+[]|\T1/ntxtlf/m/n/10.95 (+20) AM-Bench 2022,
+ []
+
+
+Underfull \hbox (badness 4805) in paragraph at lines 511--511
+[]|\T1/ntxtlf/m/n/10.95 (+20) AM-Bench 2022,
+ []
+
+
+Underfull \hbox (badness 4805) in paragraph at lines 516--516
+[]|\T1/ntxtlf/m/n/10.95 (+20) AM-Bench 2025,
+ []
+
+
+Underfull \hbox (badness 4805) in paragraph at lines 521--521
+[]|\T1/ntxtlf/m/n/10.95 (+20) AM-Bench 2025,
+ []
+
+
+Underfull \hbox (badness 4805) in paragraph at lines 526--526
+[]|\T1/ntxtlf/m/n/10.95 (+20) AM-Bench 2025,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 532--532
+[]|\T1/ntxtlf/m/n/10.95 (+20) Spreadsheet
+ []
+
+
+Underfull \hbox (badness 4805) in paragraph at lines 533--533
+[]|\T1/ntxtlf/m/n/10.95 (+20) AM-Bench 2022,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 537--537
+[]|\T1/ntxtlf/m/n/10.95 (+20) Spreadsheet
+ []
+
+
+Underfull \hbox (badness 4805) in paragraph at lines 538--538
+[]|\T1/ntxtlf/m/n/10.95 (+20) AM-Bench 2025,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 542--542
+[]|\T1/ntxtlf/m/n/10.95 (+20) Spreadsheet
+ []
+
+
+Underfull \hbox (badness 4805) in paragraph at lines 543--543
+[]|\T1/ntxtlf/m/n/10.95 (+20) AM-Bench 2022,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 547--547
+[]|\T1/ntxtlf/m/n/10.95 (+20) Spreadsheet
+ []
+
+
+Underfull \hbox (badness 4805) in paragraph at lines 548--548
+[]|\T1/ntxtlf/m/n/10.95 (+20) AM-Bench 2022,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 552--552
+[]|\T1/ntxtlf/m/n/10.95 (+20) Spreadsheet
+ []
+
+
+Underfull \hbox (badness 4805) in paragraph at lines 553--553
+[]|\T1/ntxtlf/m/n/10.95 (+20) AM-Bench 2025,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 557--557
+[]|\T1/ntxtlf/m/n/10.95 (+20) Spreadsheet
+ []
+
+
+Underfull \hbox (badness 4805) in paragraph at lines 558--558
+[]|\T1/ntxtlf/m/n/10.95 (+20) AM-Bench 2025,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 562--562
+[]|\T1/ntxtlf/m/n/10.95 (+20) Spreadsheet
+ []
+
+
+Underfull \hbox (badness 4805) in paragraph at lines 563--563
+[]|\T1/ntxtlf/m/n/10.95 (+20) AM-Bench 2022,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 567--567
+[]|\T1/ntxtlf/m/n/10.95 (+20) Spreadsheet
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 568--568
+[]|\T1/ntxtlf/m/n/10.95 (+20) AM-Bench
+ []
+
+
+Underfull \hbox (badness 1102) in paragraph at lines 569--570
+[]|\T1/ntxtlf/m/n/10.95 (+20) Coordinates of mon-i-tor-ing points used for
+ []
+
+
+Overfull \hbox (5.71658pt too wide) in alignment at lines 455--579
+ [] [] [] [] 
+ []
+
+[7]
+
+[8] (Supplementary_Information.aux)
  ***********
 LaTeX2e <2025-06-01> patch level 1
 L3 programming layer <2020/03/25>
@@ -712,17 +884,17 @@ Package rerunfilecheck Info: File `Supplementary_Information.out' has not change
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 16296 strings out of 468130
- 250115 string characters out of 5431117
- 691350 words of memory out of 5000000
+ 16303 strings out of 468130
+ 250223 string characters out of 5431117
+ 701366 words of memory out of 5000000
  44591 multiletter control sequences out of 15000+600000
- 667375 words of font info for 128 fonts, out of 8000000 for 9000
+ 667559 words of font info for 130 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 75i,5n,80p,1103b,488s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 75i,5n,80p,1103b,617s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/Acer/AppData/Local/Programs/MiKTeX/fonts/type1/public/newtx/NewTXMI.pfb><C:/Users/Acer/AppData/Local/Programs/MiKTeX/fonts/type1/public/newtx/NewTXMI7.pfb><C:/Users/Acer/AppData/Local/Programs/MiKTeX/fonts/type1/public/newtx/txsys.pfb><C:/Users/Acer/AppData/Local/Programs/MiKTeX/fonts/type1/public/newtx/ztmb.pfb><C:/Users/Acer/AppData/Local/Programs/MiKTeX/fonts/type1/public/newtx/ztmr.pfb><C:/Users/Acer/AppData/Local/Programs/MiKTeX/fonts/type1/public/newtx/ztmri.pfb>
-Output written on Supplementary_Information.pdf (6 pages, 141963 bytes).
+Output written on Supplementary_Information.pdf (8 pages, 151317 bytes).
 PDF statistics:
- 77 PDF objects out of 1000 (max. 8388607)
- 14 named destinations out of 1000 (max. 500000)
+ 88 PDF objects out of 1000 (max. 8388607)
+ 17 named destinations out of 1000 (max. 500000)
  15873 words of extra memory for PDF output out of 17280 (max. 10000000)
 
