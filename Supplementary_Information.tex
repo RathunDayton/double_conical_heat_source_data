@@ -1,0 +1,416 @@
+
+\documentclass[11pt]{article}
+
+\usepackage[T1]{fontenc}
+\usepackage{newtxtext,newtxmath}
+\usepackage[margin=1in]{geometry}
+\usepackage{microtype}
+\usepackage[hidelinks]{hyperref}
+\usepackage{setspace}
+\usepackage{parskip}
+\usepackage{enumitem}
+\usepackage{longtable}
+\usepackage{booktabs}
+\usepackage{array}
+
+\setlength{\parindent}{0pt}
+\setstretch{1.10}
+\setlist[itemize]{leftmargin=1.5em,itemsep=0.25em,topsep=0.25em}
+
+\begin{document}
+
+\begin{center}
+{\Large\bfseries Supplementary Information}
+
+\vspace{0.55cm}
+
+{\large\bfseries
+A Multi-Track Simulation of Laser-Based Powder Bed Fusion of Metals
+(PBF-LB/M) with Novel Double Conical Heat Source to Predict the
+Effects of Laser Turnaround Time on Pad Dimensions and Cooling Rates
+for NIST AM-Bench 2025 Challenge
+}
+
+\vspace{0.65cm}
+
+Rahul Singha Rathun$^{1}$,
+Rakibul Islam Kanak$^{2}$,
+Badhon Kumar$^{2}$,
+Abdullah Al Amin$^{1,*}$
+
+\vspace{0.45cm}
+
+$^{1}$Department of Mechanical and Aerospace Engineering,
+School of Engineering, University of Dayton,
+Dayton, OH 45469, USA
+
+\vspace{0.20cm}
+
+$^{2}$Department of Mechanical Engineering,
+Bangladesh University of Engineering and Technology,
+Dhaka 1000, Bangladesh
+
+\vspace{0.45cm}
+
+$^{*}$\textbf{Corresponding author:} Abdullah Al Amin, Assistant Professor\\
+Department of Mechanical and Aerospace Engineering, School of Engineering,
+University of Dayton\\
+Email: \href{mailto:aamin1@udayton.edu}{aamin1@udayton.edu}
+
+\vspace{0.45cm}
+
+\textit{The International Journal of Advanced Manufacturing Technology}
+\end{center}
+
+\vspace{0.6cm}
+
+\section*{Overview}
+
+This Supplementary Information document describes the electronic
+supplementary materials accompanying the manuscript. The supplementary
+package contains 23 files: seven transient simulation videos, seven
+temperature-history videos, eight spreadsheet files containing supporting
+numerical data, and one image illustrating the steady-state condition.
+In the manuscript and the journal submission system, these materials are
+cited consecutively as \textit{Online Resource 1} through
+\textit{Online Resource 23}.
+
+The supplementary materials provide additional visualization and numerical
+data supporting the model development, calibration, validation, and analysis
+presented in the manuscript. Detailed descriptions of the individual online
+resources are provided in the following sections.
+
+
+\section*{S1. Transient Simulation Videos}
+
+Online Resources 1--7 provide transient contour animations of the numerical
+simulations presented in the manuscript. Each video includes contours of
+temperature, liquid fraction, volumetric laser heat-source intensity,
+radiative heat-loss source term, and convective heat-loss source term.
+Temperature is reported in K, liquid fraction is dimensionless, and the
+volumetric heat-source intensity and heat-loss source terms are reported in
+W/m$^3$.
+
+For each field, contours are presented in the $x$--$z$ plane, representing
+a longitudinal section along the laser scanning direction, and in the
+$x$--$y$ plane, representing the top view of the build surface. The videos
+illustrate the temporal evolution of the thermal field, melt-pool formation
+and solidification, applied volumetric heat source, and heat losses during
+laser scanning. The opening screen of each video provides the corresponding
+simulation conditions and numerical parameters, including mesh information,
+time-step size, track length, laser power, scan speed, and other relevant
+case-specific parameters.
+
+
+\textbf{Online Resource 1 (ESM\_1.mp4).}\\
+Transient thermal simulation of the NIST AM-Bench 2022 single-track
+Case 0 using the conventional single-conical volumetric heat-source
+model. This simulation is used in the single-track validation presented
+in the main manuscript and serves as the reference heat-source model
+for comparison with the proposed Double Conical Heat Source (DCHS).
+The video presents the transient evolution of the temperature field,
+liquid fraction, volumetric laser heat-source intensity, and radiative
+and convective heat-loss source terms. The simulation was performed
+with a laser power of 285 W, a scan speed of 960 mm/s, and a track
+length of 2 mm. Detailed computational and processing parameters are
+provided on the opening screen of the video.
+
+\medskip
+
+\textbf{Online Resource 2 (ESM\_2.mp4).}\\
+Transient thermal simulation of the NIST AM-Bench 2022 single-track
+Case 0 using the proposed Double Conical Heat Source (DCHS) model.
+This simulation is used for the single-track validation of the proposed
+model in the main manuscript and is directly compared with the
+single-conical heat-source simulation provided in Online Resource 1.
+The video presents the transient evolution of the temperature field,
+liquid fraction, volumetric laser heat-source intensity, and radiative
+and convective heat-loss source terms. The simulation uses the same
+process conditions as Online Resource 1, with a laser power of 285 W,
+a scan speed of 960 mm/s, and a track length of 2 mm. Detailed
+computational and processing parameters are provided on the opening
+screen of the video.
+
+\medskip
+
+\textbf{Online Resource 3 (ESM\_3.mp4).}\\
+Transient thermal simulation of the NIST AM-Bench 2022 XPad
+multi-track benchmark using the conventional single-conical
+volumetric heat-source model. This simulation is used in the
+multi-track XPad validation presented in the main manuscript and
+serves as the reference case for comparison with the proposed Double
+Conical Heat Source (DCHS) model. The video presents the transient
+evolution of the temperature field, liquid fraction, volumetric laser
+heat-source intensity, and radiative and convective heat-loss source
+terms during the simulation of 10 bidirectional tracks. The simulation
+was performed with a laser power of 285 W, a scan speed of 960 mm/s,
+a track length of 2 mm, and a hatch spacing of 110~$\mu$m. Laser
+turnaround times of 5 ms and 40 ms were applied after odd- and
+even-numbered tracks, respectively. Detailed computational and
+processing parameters are provided on the opening screen of the video.
+
+\medskip
+
+\textbf{Online Resource 4 (ESM\_4.mp4).}\\
+Transient thermal simulation of the NIST AM-Bench 2022 XPad
+multi-track benchmark using the proposed Double Conical Heat Source
+(DCHS) model. This simulation is used in the multi-track XPad
+validation of the proposed model presented in the main manuscript
+and is directly compared with the conventional single-conical
+heat-source simulation provided in Online Resource 3. The video
+presents the transient evolution of the temperature field, liquid
+fraction, volumetric laser heat-source intensity, and radiative and
+convective heat-loss source terms during the simulation of 10
+bidirectional tracks. The simulation was performed with a laser
+power of 285 W, a scan speed of 960 mm/s, a track length of 2 mm,
+and a hatch spacing of 110~$\mu$m. Laser turnaround times of 5 ms
+and 40 ms were applied after odd- and even-numbered tracks,
+respectively. Detailed computational and processing parameters are
+provided on the opening screen of the video.
+
+\medskip
+
+\textbf{Online Resource 5 (ESM\_5.mp4).}\\
+Transient thermal simulation of the NIST AM-Bench 2025 single-track
+case using the proposed Double Conical Heat Source (DCHS) model.
+This single-track case was provided as part of the AM-Bench 2025
+competition and was used to calibrate the DCHS model prior to its
+application to the multi-track Challenge 7 cases presented in the
+main manuscript. The video presents the transient evolution of the
+temperature field, liquid fraction, volumetric laser heat-source
+intensity, and radiative and convective heat-loss source terms during
+laser scanning. The simulation was performed with a laser power of
+285 W, a scan speed of 960 mm/s, a track length of 2 mm, and a laser
+spot diameter of 72~$\mu$m. Detailed computational and processing
+parameters are provided on the opening screen of the video.
+
+\medskip
+
+\textbf{Online Resource 6 (ESM\_6.mp4).}\\
+Transient thermal simulation of the NIST AM-Bench 2025 Challenge 7
+multi-track case with a laser turnaround time of 5 ms using the proposed
+Double Conical Heat Source (DCHS) model. This case constitutes one of
+the primary multi-track prediction cases of the AM-Bench 2025 competition
+and was simulated using the DCHS model calibrated from the corresponding
+single-track case provided in Online Resource 5. The video presents the
+transient evolution of the temperature field, liquid fraction, volumetric
+laser heat-source intensity, and radiative and convective heat-loss source
+terms during 15 bidirectional tracks. The simulation was performed with
+a laser power of 285 W, a scan speed of 960 mm/s, a track length of 1 mm,
+a hatch spacing of 110~$\mu$m, and a laser spot diameter of 72~$\mu$m.
+A turnaround time of 5 ms was applied between consecutive tracks.
+Detailed computational and processing parameters are provided on the
+opening screen of the video.
+
+\medskip
+
+\textbf{Online Resource 7 (ESM\_7.mp4).}\\
+Transient thermal simulation of the NIST AM-Bench 2025 Challenge 7
+multi-track case with a laser turnaround time of 0.75 ms using the
+proposed Double Conical Heat Source (DCHS) model. This case constitutes
+the second primary multi-track prediction case of the AM-Bench 2025
+competition and was simulated using the DCHS model calibrated from the
+corresponding single-track case provided in Online Resource 5. The video
+presents the transient evolution of the temperature field, liquid
+fraction, volumetric laser heat-source intensity, and radiative and
+convective heat-loss source terms during 15 bidirectional tracks. The
+simulation was performed with a laser power of 285 W, a scan speed of
+960 mm/s, a track length of 1 mm, a hatch spacing of 110~$\mu$m, and a
+laser spot diameter of 72~$\mu$m. A turnaround time of 0.75 ms was
+applied between consecutive tracks. Detailed computational and processing
+parameters are provided on the opening screen of the video.
+
+\medskip
+
+\section*{S2. Temperature-History Videos}
+
+Online Resources 8--14 present the transient temperature histories
+extracted from the corresponding single-track and multi-track simulations.
+These videos illustrate the heating and cooling cycles experienced at the
+selected monitoring locations as the laser passes over or near each point.
+The temperature histories are used to evaluate the thermal metrics reported
+in the main manuscript, including the Solid Cooling Rate (SCR), Transition
+Cooling Rate (TCR), Liquid Cooling Rate (LCR), and Time Above Melt (TAM)
+for the single-track cases, as well as the Pad Solid Cooling Rate (PSCR)
+and Pad Time Above Melt (PTAM) for the multi-track cases.
+
+The horizontal threshold lines shown in the temperature-history plots
+indicate the temperature ranges used to evaluate the corresponding thermal
+metrics. Temperature is reported in K and time in seconds. The animations
+show the evolution of the temperature history as the transient simulation
+progresses and provide a visual representation of the thermal cycles used
+for the quantitative analyses presented in the main manuscript.
+
+\textbf{Online Resource 8 (ESM\_8.mp4).}\\
+Temperature-history animation for the NIST AM-Bench 2022 single-track
+Case 0 simulated using the conventional single-conical heat-source model.
+The temperature history corresponds to the single-track validation analysis
+presented in the main manuscript and is used to evaluate the associated
+cooling-rate and time-above-melt metrics.
+
+\medskip
+
+\textbf{Online Resource 9 (ESM\_9.mp4).}\\
+Temperature-history animation for the NIST AM-Bench 2022 single-track
+Case 0 simulated using the proposed Double Conical Heat Source (DCHS)
+model. The temperature history corresponds to the DCHS single-track
+validation presented in the main manuscript and is used to evaluate
+the associated Solid Cooling Rate (SCR), Transition Cooling Rate (TCR),
+Liquid Cooling Rate (LCR), and Time Above Melt (TAM). This resource
+provides the thermal-history counterpart to the transient simulation
+presented in Online Resource 2.
+
+\medskip
+
+\textbf{Online Resource 10 (ESM\_10.mp4).}\\
+Temperature-history animation for the NIST AM-Bench 2022 XPad
+multi-track benchmark simulated using the conventional single-conical
+heat-source model. The temperature histories correspond to the XPad
+multi-track validation presented in the main manuscript and illustrate
+the repeated thermal cycles produced by successive laser tracks. The
+histories are used to determine the Pad Time Above Melt (PTAM) and Pad
+Solid Cooling Rate (PSCR). This resource provides the temperature-history
+counterpart to the transient simulation presented in Online Resource 3.
+
+\medskip
+
+\textbf{Online Resource 11 (ESM\_11.mp4).}\\
+Temperature-history animation for the NIST AM-Bench 2022 XPad
+multi-track benchmark simulated using the proposed Double Conical
+Heat Source (DCHS) model. The temperature histories correspond to
+the DCHS XPad multi-track validation presented in the main manuscript
+and illustrate the repeated heating and cooling cycles caused by
+successive laser tracks and remelting. These histories are used to
+determine the Pad Time Above Melt (PTAM) and Pad Solid Cooling Rate
+(PSCR). This resource provides the temperature-history counterpart
+to the transient DCHS simulation presented in Online Resource 4.
+
+\medskip
+
+\textbf{Online Resource 12 (ESM\_12.mp4).}\\
+Temperature-history animation for the NIST AM-Bench 2025 single-track
+case simulated using the proposed Double Conical Heat Source (DCHS)
+model. This single-track case was used to calibrate the DCHS model
+prior to its application to the AM-Bench 2025 Challenge 7 multi-track
+prediction cases presented in the main manuscript. The animation
+illustrates the transient heating and cooling response at the selected
+monitoring location and the temperature thresholds used to evaluate
+the corresponding thermal metrics. This resource provides the
+temperature-history counterpart to the transient simulation presented
+in Online Resource 5.
+
+\medskip
+
+\textbf{Online Resource 13 (ESM\_13.mp4).}\\
+Temperature-history animation for the NIST AM-Bench 2025 Challenge 7
+multi-track case with a laser turnaround time of 5 ms, simulated using
+the proposed Double Conical Heat Source (DCHS) model. This case is one
+of the primary multi-track prediction cases of the AM-Bench 2025
+competition. The animation illustrates the repeated heating, remelting,
+and cooling cycles at the selected monitoring locations during
+successive laser tracks. The temperature histories are used to evaluate
+the Pad Time Above Melt (PTAM) and Pad Solid Cooling Rate (PSCR)
+reported in the main manuscript. This resource provides the
+temperature-history counterpart to the transient simulation presented
+in Online Resource 6.
+
+\medskip
+
+\textbf{Online Resource 14 (ESM\_14.mp4).}\\
+Temperature-history animation for the NIST AM-Bench 2025 Challenge 7
+multi-track case with a laser turnaround time of 0.75 ms, simulated
+using the proposed Double Conical Heat Source (DCHS) model. This case
+is the second primary multi-track prediction case of the AM-Bench 2025
+competition. The animation illustrates the repeated heating, remelting,
+and cooling cycles at the selected monitoring locations during
+successive laser tracks. The temperature histories are used to evaluate
+the Pad Time Above Melt (PTAM) and Pad Solid Cooling Rate (PSCR)
+reported in the main manuscript. This resource provides the
+temperature-history counterpart to the transient simulation presented
+in Online Resource 7.
+
+\medskip
+
+\section*{S3. Supporting Numerical Data}
+
+\textbf{Online Resource 15 (ESM\_15.xlsx).}\\
+Grid-independence and numerical-resolution data used to assess the sensitivity
+of the predicted melt-pool dimensions to computational grid spacing. The file
+contains the grid cases and the corresponding simulation results used to
+justify the mesh resolution adopted in the manuscript.
+
+\medskip
+
+\textbf{Online Resource 16 (ESM\_16.xlsx).}\\
+Supporting AM-Bench 2022 single-track thermal data. The workbook contains
+temperature-history and cooling-rate information used in the single-track
+calibration and validation of the thermal-CFD model.
+
+\medskip
+
+\textbf{Online Resource 17 (ESM\_17.xlsx).}\\
+Supporting AM-Bench 2022 XPad data. The workbook contains numerical results
+used in the multi-track evaluation, including pad-related geometric and/or
+thermal quantities reported in the manuscript.
+
+\medskip
+
+\textbf{Online Resource 18 (ESM\_18.xlsx).}\\
+Supporting AM-Bench 2025 Challenge 7 thermal data for the 5 ms and 0.75 ms
+turnaround-time cases. The workbook contains the numerical values used to
+evaluate PTAM, PSCR, and the spatial variation of the predicted thermal
+response.
+
+\medskip
+
+\textbf{Online Resource 19 (ESM\_19.xlsx).}\\
+Supporting AM-Bench 2025 Challenge 7 dimensional data for the 5 ms and
+0.75 ms turnaround-time cases. The workbook contains the simulated pad
+dimensions and overlap-related quantities used for comparison with the
+benchmark measurements.
+
+\section*{Summary of Supplementary Files}
+
+\begin{longtable}{>{\raggedright\arraybackslash}p{0.18\textwidth}
+                  >{\raggedright\arraybackslash}p{0.17\textwidth}
+                  >{\raggedright\arraybackslash}p{0.55\textwidth}}
+\toprule
+\textbf{Resource} & \textbf{File} & \textbf{Content} \\
+\midrule
+\endfirsthead
+
+\toprule
+\textbf{Resource} & \textbf{File} & \textbf{Content} \\
+\midrule
+\endhead
+
+Online Resource 1 & ESM\_1.mp4 & AM-Bench 2022 single track, single-conical model \\
+Online Resource 2 & ESM\_2.mp4 & AM-Bench 2022 single track, DCHS model \\
+Online Resource 3 & ESM\_3.mp4 & AM-Bench 2022 XPad, single-conical model \\
+Online Resource 4 & ESM\_4.mp4 & AM-Bench 2022 XPad, DCHS model \\
+Online Resource 5 & ESM\_5.mp4 & AM-Bench 2025 single-track case \\
+Online Resource 6 & ESM\_6.mp4 & AM-Bench 2025 multi-track, 5 ms turnaround \\
+Online Resource 7 & ESM\_7.mp4 & AM-Bench 2025 multi-track, 0.75 ms turnaround \\
+Online Resource 8 & ESM\_8.mp4 & Temperature history, AM-Bench 2022 single track, single-conical \\
+Online Resource 9 & ESM\_9.mp4 & Temperature history, AM-Bench 2022 single track, DCHS \\
+Online Resource 10 & ESM\_10.mp4 & Temperature history, AM-Bench 2022 XPad, single-conical \\
+Online Resource 11 & ESM\_11.mp4 & Temperature history, AM-Bench 2022 XPad, DCHS \\
+Online Resource 12 & ESM\_12.mp4 & Temperature history, AM-Bench 2025 single track \\
+Online Resource 13 & ESM\_13.mp4 & Temperature history, AM-Bench 2025, 5 ms turnaround \\
+Online Resource 14 & ESM\_14.mp4 & Temperature history, AM-Bench 2025, 0.75 ms turnaround \\
+Online Resource 15 & ESM\_15.xlsx & Grid-independence / numerical-resolution results \\
+Online Resource 16 & ESM\_16.xlsx & AM-Bench 2022 single-track thermal data \\
+Online Resource 17 & ESM\_17.xlsx & AM-Bench 2022 XPad supporting data \\
+Online Resource 18 & ESM\_18.xlsx & AM-Bench 2025 thermal data, 5 ms and 0.75 ms \\
+Online Resource 19 & ESM\_19.xlsx & AM-Bench 2025 dimensional data, 5 ms and 0.75 ms \\
+\bottomrule
+\end{longtable}
+
+\section*{Data Availability Note}
+
+The supplementary files provide the numerical and visual material directly
+supporting the analyses presented in the manuscript. Additional simulation
+files and related data are available through the project repository and may
+also be obtained from the corresponding author upon reasonable request.
+
+\end{document}
