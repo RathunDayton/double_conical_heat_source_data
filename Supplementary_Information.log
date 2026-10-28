@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2026.4.24)  9 SEP 2026 10:55
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2026.4.24)  28 OCT 2026 11:48
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -685,12 +685,188 @@ LaTeX Font Info:    Font shape `T1/ntxtlf/b/n' will be
 LaTeX Font Info:    Font shape `T1/ntxtlf/m/it' will be
 (Font)              scaled to size 10.95pt on input line 62.
 
+Overfull \hbox (5.71658pt too wide) in alignment at lines 85--89
+ [] [] [] [] 
+ []
+
+
+Overfull \hbox (5.71658pt too wide) in alignment at lines 89--94
+ [] [] [] [] 
+ []
+
+
+Underfull \hbox (badness 4805) in paragraph at lines 98--98
+[]|\T1/ntxtlf/m/n/10.95 (+20) AM-Bench 2022,
+ []
+
+
+Underfull \hbox (badness 4805) in paragraph at lines 103--103
+[]|\T1/ntxtlf/m/n/10.95 (+20) AM-Bench 2022,
+ []
+
+
+Underfull \hbox (badness 4805) in paragraph at lines 108--108
+[]|\T1/ntxtlf/m/n/10.95 (+20) AM-Bench 2022,
+ []
+
+
+Underfull \hbox (badness 4805) in paragraph at lines 113--113
+[]|\T1/ntxtlf/m/n/10.95 (+20) AM-Bench 2022,
+ []
+
+
+Underfull \hbox (badness 4805) in paragraph at lines 118--118
+[]|\T1/ntxtlf/m/n/10.95 (+20) AM-Bench 2025,
+ []
+
+
+Underfull \hbox (badness 4805) in paragraph at lines 123--123
+[]|\T1/ntxtlf/m/n/10.95 (+20) AM-Bench 2025,
+ []
+
+
+Underfull \hbox (badness 4805) in paragraph at lines 128--128
+[]|\T1/ntxtlf/m/n/10.95 (+20) AM-Bench 2025,
+ []
+
+
+Underfull \hbox (badness 4805) in paragraph at lines 135--135
+[]|\T1/ntxtlf/m/n/10.95 (+20) AM-Bench 2022,
+ []
+
+
+Underfull \hbox (badness 4805) in paragraph at lines 140--140
+[]|\T1/ntxtlf/m/n/10.95 (+20) AM-Bench 2022,
+ []
+
+
+Underfull \hbox (badness 4805) in paragraph at lines 145--145
+[]|\T1/ntxtlf/m/n/10.95 (+20) AM-Bench 2022,
+ []
+
+
+Underfull \hbox (badness 4805) in paragraph at lines 150--150
+[]|\T1/ntxtlf/m/n/10.95 (+20) AM-Bench 2022,
+ []
+
+
+Underfull \hbox (badness 4805) in paragraph at lines 155--155
+[]|\T1/ntxtlf/m/n/10.95 (+20) AM-Bench 2025,
+ []
+
+
+Underfull \hbox (badness 4805) in paragraph at lines 160--160
+[]|\T1/ntxtlf/m/n/10.95 (+20) AM-Bench 2025,
+ []
+
+
+Underfull \hbox (badness 4805) in paragraph at lines 165--165
+[]|\T1/ntxtlf/m/n/10.95 (+20) AM-Bench 2025,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 171--171
+[]|\T1/ntxtlf/m/n/10.95 (+20) Spreadsheet
+ []
+
+
+Underfull \hbox (badness 4805) in paragraph at lines 172--172
+[]|\T1/ntxtlf/m/n/10.95 (+20) AM-Bench 2022,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 176--176
+[]|\T1/ntxtlf/m/n/10.95 (+20) Spreadsheet
+ []
+
+
+Underfull \hbox (badness 4805) in paragraph at lines 177--177
+[]|\T1/ntxtlf/m/n/10.95 (+20) AM-Bench 2025,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 181--181
+[]|\T1/ntxtlf/m/n/10.95 (+20) Spreadsheet
+ []
+
+
+Underfull \hbox (badness 4805) in paragraph at lines 182--182
+[]|\T1/ntxtlf/m/n/10.95 (+20) AM-Bench 2022,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 186--186
+[]|\T1/ntxtlf/m/n/10.95 (+20) Spreadsheet
+ []
+
+
+Underfull \hbox (badness 4805) in paragraph at lines 187--187
+[]|\T1/ntxtlf/m/n/10.95 (+20) AM-Bench 2022,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 191--191
+[]|\T1/ntxtlf/m/n/10.95 (+20) Spreadsheet
+ []
+
+
+Underfull \hbox (badness 4805) in paragraph at lines 192--192
+[]|\T1/ntxtlf/m/n/10.95 (+20) AM-Bench 2025,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 196--196
+[]|\T1/ntxtlf/m/n/10.95 (+20) Spreadsheet
+ []
+
+
+Underfull \hbox (badness 4805) in paragraph at lines 197--197
+[]|\T1/ntxtlf/m/n/10.95 (+20) AM-Bench 2025,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 201--201
+[]|\T1/ntxtlf/m/n/10.95 (+20) Spreadsheet
+ []
+
+
+Underfull \hbox (badness 4805) in paragraph at lines 202--202
+[]|\T1/ntxtlf/m/n/10.95 (+20) AM-Bench 2022,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 206--206
+[]|\T1/ntxtlf/m/n/10.95 (+20) Spreadsheet
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 207--207
+[]|\T1/ntxtlf/m/n/10.95 (+20) AM-Bench
+ []
+
+
+Underfull \hbox (badness 1102) in paragraph at lines 208--209
+[]|\T1/ntxtlf/m/n/10.95 (+20) Coordinates of mon-i-tor-ing points used for
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 211--211
+[]|\T1/ntxtlf/m/n/10.95 (+20) Spreadsheet
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 212--212
+[]|\T1/ntxtlf/m/n/10.95 (+20) AM-Bench
+ []
+
+
+Overfull \hbox (5.71658pt too wide) in alignment at lines 94--230
+ [] [] [] [] 
+ []
 
 [1
 
-{C:/Users/Acer/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/Users/Acer/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/newtx/ntx-ec-tlf.enc}{C:/Users/Acer/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/newtx/ntx-ot1-tlf.enc}]
-
-[2]
+{C:/Users/Acer/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/Users/Acer/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/newtx/ntx-ec-tlf.enc}{C:/Users/Acer/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/newtx/ntx-ot1-tlf.enc}] [2]
 
 [3]
 
@@ -699,204 +875,28 @@ LaTeX Font Info:    Font shape `T1/ntxtlf/m/it' will be
 [5]
 
 [6]
-Overfull \hbox (5.71658pt too wide) in alignment at lines 458--462
- [] [] [] [] 
- []
-
-
-Overfull \hbox (5.71658pt too wide) in alignment at lines 462--467
- [] [] [] [] 
- []
-
-
-Underfull \hbox (badness 4805) in paragraph at lines 471--471
-[]|\T1/ntxtlf/m/n/10.95 (+20) AM-Bench 2022,
- []
-
-
-Underfull \hbox (badness 4805) in paragraph at lines 476--476
-[]|\T1/ntxtlf/m/n/10.95 (+20) AM-Bench 2022,
- []
-
-
-Underfull \hbox (badness 4805) in paragraph at lines 481--481
-[]|\T1/ntxtlf/m/n/10.95 (+20) AM-Bench 2022,
- []
-
-
-Underfull \hbox (badness 4805) in paragraph at lines 486--486
-[]|\T1/ntxtlf/m/n/10.95 (+20) AM-Bench 2022,
- []
-
-
-Underfull \hbox (badness 4805) in paragraph at lines 491--491
-[]|\T1/ntxtlf/m/n/10.95 (+20) AM-Bench 2025,
- []
-
-
-Underfull \hbox (badness 4805) in paragraph at lines 496--496
-[]|\T1/ntxtlf/m/n/10.95 (+20) AM-Bench 2025,
- []
-
-
-Underfull \hbox (badness 4805) in paragraph at lines 501--501
-[]|\T1/ntxtlf/m/n/10.95 (+20) AM-Bench 2025,
- []
-
-
-Underfull \hbox (badness 4805) in paragraph at lines 508--508
-[]|\T1/ntxtlf/m/n/10.95 (+20) AM-Bench 2022,
- []
-
-
-Underfull \hbox (badness 4805) in paragraph at lines 513--513
-[]|\T1/ntxtlf/m/n/10.95 (+20) AM-Bench 2022,
- []
-
-
-Underfull \hbox (badness 4805) in paragraph at lines 518--518
-[]|\T1/ntxtlf/m/n/10.95 (+20) AM-Bench 2022,
- []
-
-
-Underfull \hbox (badness 4805) in paragraph at lines 523--523
-[]|\T1/ntxtlf/m/n/10.95 (+20) AM-Bench 2022,
- []
-
-
-Underfull \hbox (badness 4805) in paragraph at lines 528--528
-[]|\T1/ntxtlf/m/n/10.95 (+20) AM-Bench 2025,
- []
-
-
-Underfull \hbox (badness 4805) in paragraph at lines 533--533
-[]|\T1/ntxtlf/m/n/10.95 (+20) AM-Bench 2025,
- []
-
-
-Underfull \hbox (badness 4805) in paragraph at lines 538--538
-[]|\T1/ntxtlf/m/n/10.95 (+20) AM-Bench 2025,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 544--544
-[]|\T1/ntxtlf/m/n/10.95 (+20) Spreadsheet
- []
-
-
-Underfull \hbox (badness 4805) in paragraph at lines 545--545
-[]|\T1/ntxtlf/m/n/10.95 (+20) AM-Bench 2022,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 549--549
-[]|\T1/ntxtlf/m/n/10.95 (+20) Spreadsheet
- []
-
-
-Underfull \hbox (badness 4805) in paragraph at lines 550--550
-[]|\T1/ntxtlf/m/n/10.95 (+20) AM-Bench 2025,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 554--554
-[]|\T1/ntxtlf/m/n/10.95 (+20) Spreadsheet
- []
-
-
-Underfull \hbox (badness 4805) in paragraph at lines 555--555
-[]|\T1/ntxtlf/m/n/10.95 (+20) AM-Bench 2022,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 559--559
-[]|\T1/ntxtlf/m/n/10.95 (+20) Spreadsheet
- []
-
-
-Underfull \hbox (badness 4805) in paragraph at lines 560--560
-[]|\T1/ntxtlf/m/n/10.95 (+20) AM-Bench 2022,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 564--564
-[]|\T1/ntxtlf/m/n/10.95 (+20) Spreadsheet
- []
-
-
-Underfull \hbox (badness 4805) in paragraph at lines 565--565
-[]|\T1/ntxtlf/m/n/10.95 (+20) AM-Bench 2025,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 569--569
-[]|\T1/ntxtlf/m/n/10.95 (+20) Spreadsheet
- []
-
-
-Underfull \hbox (badness 4805) in paragraph at lines 570--570
-[]|\T1/ntxtlf/m/n/10.95 (+20) AM-Bench 2025,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 574--574
-[]|\T1/ntxtlf/m/n/10.95 (+20) Spreadsheet
- []
-
-
-Underfull \hbox (badness 4805) in paragraph at lines 575--575
-[]|\T1/ntxtlf/m/n/10.95 (+20) AM-Bench 2022,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 579--579
-[]|\T1/ntxtlf/m/n/10.95 (+20) Spreadsheet
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 580--580
-[]|\T1/ntxtlf/m/n/10.95 (+20) AM-Bench
- []
-
-
-Underfull \hbox (badness 1102) in paragraph at lines 581--582
-[]|\T1/ntxtlf/m/n/10.95 (+20) Coordinates of mon-i-tor-ing points used for
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 584--584
-[]|\T1/ntxtlf/m/n/10.95 (+20) Spreadsheet
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 585--585
-[]|\T1/ntxtlf/m/n/10.95 (+20) AM-Bench
- []
-
-
-Overfull \hbox (5.71658pt too wide) in alignment at lines 467--597
- [] [] [] [] 
- []
 
 [7]
-LaTeX Font Info:    Trying to load font information for T1+ntxtt on input line 608.
+LaTeX Font Info:    Trying to load font information for T1+ntxtt on input line 621.
  (C:\Users\Acer\AppData\Local\Programs\MiKTeX\tex/latex/newtx\t1ntxtt.fd
 File: t1ntxtt.fd 2012/04/20 v3.1
 )
 LaTeX Font Info:    Font shape `T1/ntxtt/m/n' will be
-(Font)              scaled to size 10.95pt on input line 608.
+(Font)              scaled to size 10.95pt on input line 621.
 Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `ntxtt' (encoding: T1).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
 
-Overfull \hbox (2.14113pt too wide) in paragraph at lines 605--609
+Overfull \hbox (2.14113pt too wide) in paragraph at lines 618--622
 []$\T1/ntxtt/m/n/10.95 https : / / drive . google . com / file / d / 1emnQsmab7iHTuRSzj2tedGJ9wzvV-[]wEV / view ? usp = sharing$[] 
  []
 
 
 
-[8] (Supplementary_Information.aux)
+[8]
+
+[9] (Supplementary_Information.aux)
  ***********
 LaTeX2e <2025-06-01> patch level 1
 L3 programming layer <2020/03/25>
@@ -905,17 +905,17 @@ Package rerunfilecheck Info: File `Supplementary_Information.out' has not change
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 16343 strings out of 468130
- 250927 string characters out of 5431117
- 702366 words of memory out of 5000000
+ 16345 strings out of 468130
+ 250943 string characters out of 5431117
+ 705366 words of memory out of 5000000
  44627 multiletter control sequences out of 15000+600000
  667881 words of font info for 131 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 75i,5n,80p,1103b,617s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 75i,5n,80p,1103b,615s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/Acer/AppData/Local/Programs/MiKTeX/fonts/type1/public/newtx/NewTXMI.pfb><C:/Users/Acer/AppData/Local/Programs/MiKTeX/fonts/type1/public/newtx/NewTXMI7.pfb><C:/Users/Acer/AppData/Local/Programs/MiKTeX/fonts/type1/public/txfonts/t1xtt.pfb><C:/Users/Acer/AppData/Local/Programs/MiKTeX/fonts/type1/public/newtx/txsys.pfb><C:/Users/Acer/AppData/Local/Programs/MiKTeX/fonts/type1/public/newtx/ztmb.pfb><C:/Users/Acer/AppData/Local/Programs/MiKTeX/fonts/type1/public/newtx/ztmr.pfb><C:/Users/Acer/AppData/Local/Programs/MiKTeX/fonts/type1/public/newtx/ztmri.pfb>
-Output written on Supplementary_Information.pdf (8 pages, 160597 bytes).
+Output written on Supplementary_Information.pdf (9 pages, 161758 bytes).
 PDF statistics:
- 94 PDF objects out of 1000 (max. 8388607)
- 17 named destinations out of 1000 (max. 500000)
+ 100 PDF objects out of 1000 (max. 8388607)
+ 19 named destinations out of 1000 (max. 500000)
  16385 words of extra memory for PDF output out of 17280 (max. 10000000)
 
